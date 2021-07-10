@@ -1,0 +1,12 @@
+.body.background{
+    background-image:url(CANVAS.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+#m_can{
+    border-width: 10px;
+    border-color: white;
+    border-style:ridge ;
+    }
+    
